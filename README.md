@@ -24,9 +24,9 @@ This repository demonstrates an automated CI/CD pipeline using GitHub Actions. T
 1. **Docker Hub Image:**  
    Below is a screenshot of the Docker image published on Docker Hub:
 
-   ![Docker Hub Image](dockerhub_screenshot.png)
+   ![Docker Hub Image](https://github.com/user-attachments/assets/09b9023c-b795-4929-80e6-3e664a38253a)
 
 2. **GitHub Actions Log:**  
    Below is a screenshot of the GitHub Actions log showing the successful workflow run:
 
-   ![GitHub Actions Log](actions_log.png)
+   ![GitHub Actions Log](https://github.com/user-attachments/assets/ed9aca6d-776e-4523-9cc4-e92fa480197b)
